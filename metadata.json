@@ -1,0 +1,5 @@
+{
+  "name": "UTour – Bike Service",
+  "description": "A Rapido-style MVP for booking and managing bike rides. Riders can book rides, and drivers can accept and complete them.",
+  "requestFramePermissions": []
+}
